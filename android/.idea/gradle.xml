@@ -26,7 +26,6 @@
             <option value="$PROJECT_DIR$/../node_modules/@react-native-google-signin/google-signin/android" />
             <option value="$PROJECT_DIR$/../node_modules/@react-native-vector-icons/material-design-icons/android" />
             <option value="$PROJECT_DIR$/../node_modules/@react-native/gradle-plugin" />
-            <option value="$PROJECT_DIR$/../node_modules/react-native-fs/android" />
             <option value="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android" />
             <option value="$PROJECT_DIR$/../node_modules/react-native-get-sms-android/android" />
             <option value="$PROJECT_DIR$/../node_modules/react-native-pager-view/android" />
