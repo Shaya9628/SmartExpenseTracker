@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SmartExpenseTracker_SmartExpenseTrackerTests : NSObject
+@end
+@implementation PodsDummy_Pods_SmartExpenseTracker_SmartExpenseTrackerTests
+@end

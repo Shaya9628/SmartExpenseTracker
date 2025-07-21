@@ -1,0 +1,6 @@
+module Pods_SmartExpenseTracker_SmartExpenseTrackerTests {
+  umbrella header "Pods-SmartExpenseTracker-SmartExpenseTrackerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

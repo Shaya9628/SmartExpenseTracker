@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smartexpensetracker.app-mergeReleaseResources-37:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/spxmac028/.gradle/caches/transforms-3/cc89d70f114d35ea7756b628d0f2b317/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

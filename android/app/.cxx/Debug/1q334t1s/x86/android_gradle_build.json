@@ -1,0 +1,61 @@
+{
+  "buildFiles": [
+    "/Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/spxmac028/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/spxmac028/Desktop/SmartExpenseTracker/android/app/.cxx/Debug/1q334t1s/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/spxmac028/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/spxmac028/Desktop/SmartExpenseTracker/android/app/.cxx/Debug/1q334t1s/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "appmodules",
+      "output": "/Users/spxmac028/Desktop/SmartExpenseTracker/android/app/build/intermediates/cxx/Debug/1q334t1s/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/fabricjni/libs/android.x86/libfabricjni.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/0f00902b6e3cd66f06aa4e2bb3714a21/transformed/jetified-fbjni-0.5.1/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/folly_runtime/libs/android.x86/libfolly_runtime.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/glog/libs/android.x86/libglog.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_codegen_rncore/libs/android.x86/libreact_codegen_rncore.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_debug/libs/android.x86/libreact_debug.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_utils/libs/android.x86/libreact_utils.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_nativemodule_core/libs/android.x86/libreact_nativemodule_core.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_newarchdefaults/libs/android.x86/libreact_newarchdefaults.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_componentregistry/libs/android.x86/libreact_render_componentregistry.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_core/libs/android.x86/libreact_render_core.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_debug/libs/android.x86/libreact_render_debug.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_graphics/libs/android.x86/libreact_render_graphics.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_imagemanager/libs/android.x86/libreact_render_imagemanager.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/react_render_mapbuffer/libs/android.x86/libreact_render_mapbuffer.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/rrc_image/libs/android.x86/librrc_image.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/rrc_view/libs/android.x86/librrc_view.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/rrc_legacyviewmanagerinterop/libs/android.x86/librrc_legacyviewmanagerinterop.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/runtimeexecutor/libs/android.x86/libruntimeexecutor.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/turbomodulejsijni/libs/android.x86/libturbomodulejsijni.so",
+        "/Users/spxmac028/.gradle/caches/transforms-4/d5d9f2db58e57732bd2af259484f50f4/transformed/jetified-react-android-0.73.2-debug/prefab/modules/yoga/libs/android.x86/libyoga.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/spxmac028/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/spxmac028/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

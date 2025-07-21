@@ -1,0 +1,21 @@
+{
+  "name": "react-native-vector-icons-material-design-icons",
+  "version": "12.1.0",
+  "summary": "Material Design Icons font for react native vector icons",
+  "homepage": "https://github.com/oblador/react-native-vector-icons",
+  "license": "MIT",
+  "authors": {
+    "name": "Joel Arvidsson",
+    "email": "joel@oblador.se"
+  },
+  "platforms": {
+    "ios": "13.4",
+    "tvos": "9.0",
+    "visionos": "1.0"
+  },
+  "source": {
+    "git": "https://github.com/oblador/react-native-vector-icons.git",
+    "tag": "v12.1.0"
+  },
+  "resources": "fonts/*.ttf"
+}

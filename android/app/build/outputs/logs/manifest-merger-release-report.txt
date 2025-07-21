@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-gesture-handler] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-async-storage_async-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-google-signin_google-signin] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons_material-design-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-vector-icons/material-design-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-document-picker] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fs] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-pager-view] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-permissions] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-sqlite-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:react-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/fb37c18ad87df4527876278df15e0a7f/transformed/jetified-react-android-0.73.2-release/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/84e7bc5728b4b50682b100e0f3b2e2ef/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/a65d2725af2301f422e5081278a6dee7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/90991f7b4e61f3cae576e5cd1253060c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d484849ea8eab7d717cedab6a586f413/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/86a9cc444e05e5cd6ba734b185437a29/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/ff1e432826a417d966ff6ab152e75e7b/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/da2abe2e36f27ece4c599ab0d4369a3c/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/f9b8502e80a48858000fe872bcb229e3/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/8d2e1207112533bd0421d691c4425d54/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/c3b3e604b0f499d462b3abb8e0bd5dc0/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/62c1a5a1f19b39569b0b8a67e162cffd/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/5f3ec91db70a4f7c4857e7edf490b4b7/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/dc24d3d56903f40318e52cbeb7e886c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/821416443ac25a305d363f166889bbb2/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/26a6f590ace9816081693769be505b41/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/spxmac028/.gradle/caches/transforms-3/8972b22f86d9673c1d61465bb4eeac49/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/cc89d70f114d35ea7756b628d0f2b317/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /Users/spxmac028/.gradle/caches/transforms-3/5e2d33633f9815b83a4e88267c232f0b/transformed/recyclerview-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/00054bc69a4786e572bb11ad3519b84e/transformed/jetified-viewpager2-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/spxmac028/.gradle/caches/transforms-3/c685a48d7ec8326b5ab807f8a7a96c31/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/spxmac028/.gradle/caches/transforms-3/64308879a71c73e458768a5f5ec3b4c9/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/spxmac028/.gradle/caches/transforms-3/a828dd591c87ad4f0742fec0ef103367/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/spxmac028/.gradle/caches/transforms-3/11c76f6a7ddc4c3bc99d986553a47d6a/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/spxmac028/.gradle/caches/transforms-3/ddc74cdd7cd41076fdbafeb107cb9e61/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/spxmac028/.gradle/caches/transforms-3/783de1d7bb56997439b1cb00967ef3a4/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/ecc6d9fa184a548122fbb09b6e91e5f6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/5511e89547c72e0d1f5988069eec8b37/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/77d4830d878be53166bde72819db704c/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/04e7793374ecf27ecf8590affd6192b1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/fd52ffcc7eecde5192d5242563380398/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/c932a17b749a0383086998aa8c62e179/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/75c8d0930736465d3c2ca30cdea1447a/transformed/jetified-hermes-android-0.73.2-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/4fba2f079a01c6c26463c7bd2b9d05d5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1026d1ff30c1822d2c1dfc43e138c328/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/ad80cfb30ffc9ff7cd6a3f7fccf1f0f1/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/e67145710f38f4050f82ada1ebf77eb7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1563dc4b4e789f552168d49ae6e6b573/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c8c76e6415a815fe3b86b920ec184e69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/363c90a287013101878d24a8bba1532e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/a03e389c957fcfc6a24361e3860c6542/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/3ab6a68582ad9cf1d2e20933eef0d410/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d598138c8c75836ecb626d5419e1286a/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/9814edc18268af1acf9929c5308f84af/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/b86b16fd8b75d2e60a414dcdabc202b6/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/17ca0c6fad868fa7559c7e7eea87e527/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/053478d4a6b44e40eff0d57609d7d95b/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/f43f9e3dafcc9a828bc27aac5622f803/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c264db25529a6755e478d52d095ac796/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/23a63bf4f0e806bd5c40eaa8872d006f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/c6e6d05a44d934ae67e7c1dec680b411/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/b3d2594c45a9cac58cf591c211cfccc3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/33345f2f55cb92f7e40eb45188b9b24e/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/a3c806211e219e82cc7fba4a0ca95458/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/bced55deb03c77909cab57fab7b84262/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/0644a4027b2501407119280a22aeb669/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c89b276466e3ff20b3f0b935859d3c3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/36ad936a060cb4ea5604af2823bc275f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/24c10f90c28c8968424d03d88cac73b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/2c552be0d95a22dd369ed1ca18f7f706/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/spxmac028/.gradle/caches/transforms-3/d08b6b92ef55a0b49c3d93b14754c6bf/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-get-sms-android] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-get-sms-android/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/spxmac028/.gradle/caches/transforms-3/1de5f998d7e77273db2594e6de646c5a/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:7:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-feature#android.hardware.telephony
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:9:5-87
+	android:required
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:9:61-84
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:9:19-60
+application
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:11:5-30:19
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.material:material:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/26a6f590ace9816081693769be505b41/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/26a6f590ace9816081693769be505b41/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/spxmac028/.gradle/caches/transforms-3/8972b22f86d9673c1d61465bb4eeac49/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/spxmac028/.gradle/caches/transforms-3/8972b22f86d9673c1d61465bb4eeac49/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/spxmac028/.gradle/caches/transforms-3/a828dd591c87ad4f0742fec0ef103367/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/spxmac028/.gradle/caches/transforms-3/a828dd591c87ad4f0742fec0ef103367/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/spxmac028/.gradle/caches/transforms-3/11c76f6a7ddc4c3bc99d986553a47d6a/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/spxmac028/.gradle/caches/transforms-3/11c76f6a7ddc4c3bc99d986553a47d6a/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/a3c806211e219e82cc7fba4a0ca95458/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/a3c806211e219e82cc7fba4a0ca95458/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:13:7-39
+	android:roundIcon
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:15:7-52
+	android:icon
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.smartexpensetracker.MainActivity
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:18:7-29:18
+	android:label
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:exported
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:24:9-32
+	android:configChanges
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:21:9-118
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:27:23-70
+uses-sdk
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-google-signin_google-signin] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-google-signin_google-signin] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons_material-design-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-vector-icons/material-design-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-43
+MERGED from [:react-native-vector-icons_material-design-icons] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/@react-native-vector-icons/material-design-icons/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-43
+MERGED from [:react-native-document-picker] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-document-picker] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sqlite-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-sqlite-storage] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-sqlite-storage/platforms/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/fb37c18ad87df4527876278df15e0a7f/transformed/jetified-react-android-0.73.2-release/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/fb37c18ad87df4527876278df15e0a7f/transformed/jetified-react-android-0.73.2-release/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/84e7bc5728b4b50682b100e0f3b2e2ef/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/84e7bc5728b4b50682b100e0f3b2e2ef/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/a65d2725af2301f422e5081278a6dee7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/a65d2725af2301f422e5081278a6dee7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/90991f7b4e61f3cae576e5cd1253060c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/90991f7b4e61f3cae576e5cd1253060c/transformed/jetified-drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d484849ea8eab7d717cedab6a586f413/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d484849ea8eab7d717cedab6a586f413/transformed/jetified-nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/86a9cc444e05e5cd6ba734b185437a29/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/86a9cc444e05e5cd6ba734b185437a29/transformed/jetified-memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/ff1e432826a417d966ff6ab152e75e7b/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/ff1e432826a417d966ff6ab152e75e7b/transformed/jetified-memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/da2abe2e36f27ece4c599ab0d4369a3c/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/da2abe2e36f27ece4c599ab0d4369a3c/transformed/jetified-imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/f9b8502e80a48858000fe872bcb229e3/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/f9b8502e80a48858000fe872bcb229e3/transformed/jetified-memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/8d2e1207112533bd0421d691c4425d54/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/8d2e1207112533bd0421d691c4425d54/transformed/jetified-imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/c3b3e604b0f499d462b3abb8e0bd5dc0/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/c3b3e604b0f499d462b3abb8e0bd5dc0/transformed/jetified-nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/62c1a5a1f19b39569b0b8a67e162cffd/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/62c1a5a1f19b39569b0b8a67e162cffd/transformed/jetified-imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/5f3ec91db70a4f7c4857e7edf490b4b7/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/5f3ec91db70a4f7c4857e7edf490b4b7/transformed/jetified-middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/dc24d3d56903f40318e52cbeb7e886c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/dc24d3d56903f40318e52cbeb7e886c1/transformed/jetified-ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/821416443ac25a305d363f166889bbb2/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/821416443ac25a305d363f166889bbb2/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/26a6f590ace9816081693769be505b41/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/26a6f590ace9816081693769be505b41/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/spxmac028/.gradle/caches/transforms-3/8972b22f86d9673c1d61465bb4eeac49/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/spxmac028/.gradle/caches/transforms-3/8972b22f86d9673c1d61465bb4eeac49/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/cc89d70f114d35ea7756b628d0f2b317/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/spxmac028/.gradle/caches/transforms-3/cc89d70f114d35ea7756b628d0f2b317/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /Users/spxmac028/.gradle/caches/transforms-3/5e2d33633f9815b83a4e88267c232f0b/transformed/recyclerview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /Users/spxmac028/.gradle/caches/transforms-3/5e2d33633f9815b83a4e88267c232f0b/transformed/recyclerview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/00054bc69a4786e572bb11ad3519b84e/transformed/jetified-viewpager2-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/00054bc69a4786e572bb11ad3519b84e/transformed/jetified-viewpager2-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/spxmac028/.gradle/caches/transforms-3/c685a48d7ec8326b5ab807f8a7a96c31/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/spxmac028/.gradle/caches/transforms-3/c685a48d7ec8326b5ab807f8a7a96c31/transformed/jetified-play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/spxmac028/.gradle/caches/transforms-3/64308879a71c73e458768a5f5ec3b4c9/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/spxmac028/.gradle/caches/transforms-3/64308879a71c73e458768a5f5ec3b4c9/transformed/jetified-play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/spxmac028/.gradle/caches/transforms-3/a828dd591c87ad4f0742fec0ef103367/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /Users/spxmac028/.gradle/caches/transforms-3/a828dd591c87ad4f0742fec0ef103367/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/spxmac028/.gradle/caches/transforms-3/11c76f6a7ddc4c3bc99d986553a47d6a/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/spxmac028/.gradle/caches/transforms-3/11c76f6a7ddc4c3bc99d986553a47d6a/transformed/jetified-play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/spxmac028/.gradle/caches/transforms-3/ddc74cdd7cd41076fdbafeb107cb9e61/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/spxmac028/.gradle/caches/transforms-3/ddc74cdd7cd41076fdbafeb107cb9e61/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/spxmac028/.gradle/caches/transforms-3/783de1d7bb56997439b1cb00967ef3a4/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/spxmac028/.gradle/caches/transforms-3/783de1d7bb56997439b1cb00967ef3a4/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/ecc6d9fa184a548122fbb09b6e91e5f6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/ecc6d9fa184a548122fbb09b6e91e5f6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/5511e89547c72e0d1f5988069eec8b37/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/5511e89547c72e0d1f5988069eec8b37/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/77d4830d878be53166bde72819db704c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/77d4830d878be53166bde72819db704c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/04e7793374ecf27ecf8590affd6192b1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/04e7793374ecf27ecf8590affd6192b1/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/fd52ffcc7eecde5192d5242563380398/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/fd52ffcc7eecde5192d5242563380398/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/c932a17b749a0383086998aa8c62e179/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/c932a17b749a0383086998aa8c62e179/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/75c8d0930736465d3c2ca30cdea1447a/transformed/jetified-hermes-android-0.73.2-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.73.2] /Users/spxmac028/.gradle/caches/transforms-3/75c8d0930736465d3c2ca30cdea1447a/transformed/jetified-hermes-android-0.73.2-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/4fba2f079a01c6c26463c7bd2b9d05d5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/4fba2f079a01c6c26463c7bd2b9d05d5/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1026d1ff30c1822d2c1dfc43e138c328/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1026d1ff30c1822d2c1dfc43e138c328/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/ad80cfb30ffc9ff7cd6a3f7fccf1f0f1/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/ad80cfb30ffc9ff7cd6a3f7fccf1f0f1/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/e67145710f38f4050f82ada1ebf77eb7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/e67145710f38f4050f82ada1ebf77eb7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1563dc4b4e789f552168d49ae6e6b573/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/1563dc4b4e789f552168d49ae6e6b573/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c8c76e6415a815fe3b86b920ec184e69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c8c76e6415a815fe3b86b920ec184e69/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/363c90a287013101878d24a8bba1532e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/363c90a287013101878d24a8bba1532e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/a03e389c957fcfc6a24361e3860c6542/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/a03e389c957fcfc6a24361e3860c6542/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/3ab6a68582ad9cf1d2e20933eef0d410/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/3ab6a68582ad9cf1d2e20933eef0d410/transformed/jetified-soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d598138c8c75836ecb626d5419e1286a/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/spxmac028/.gradle/caches/transforms-3/d598138c8c75836ecb626d5419e1286a/transformed/jetified-fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/9814edc18268af1acf9929c5308f84af/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/9814edc18268af1acf9929c5308f84af/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/b86b16fd8b75d2e60a414dcdabc202b6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/b86b16fd8b75d2e60a414dcdabc202b6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/17ca0c6fad868fa7559c7e7eea87e527/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/17ca0c6fad868fa7559c7e7eea87e527/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/053478d4a6b44e40eff0d57609d7d95b/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/053478d4a6b44e40eff0d57609d7d95b/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/f43f9e3dafcc9a828bc27aac5622f803/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/f43f9e3dafcc9a828bc27aac5622f803/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c264db25529a6755e478d52d095ac796/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c264db25529a6755e478d52d095ac796/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/23a63bf4f0e806bd5c40eaa8872d006f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/23a63bf4f0e806bd5c40eaa8872d006f/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/c6e6d05a44d934ae67e7c1dec680b411/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/c6e6d05a44d934ae67e7c1dec680b411/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/b3d2594c45a9cac58cf591c211cfccc3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/b3d2594c45a9cac58cf591c211cfccc3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/33345f2f55cb92f7e40eb45188b9b24e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/33345f2f55cb92f7e40eb45188b9b24e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/a3c806211e219e82cc7fba4a0ca95458/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/a3c806211e219e82cc7fba4a0ca95458/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/bced55deb03c77909cab57fab7b84262/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/bced55deb03c77909cab57fab7b84262/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/0644a4027b2501407119280a22aeb669/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/spxmac028/.gradle/caches/transforms-3/0644a4027b2501407119280a22aeb669/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c89b276466e3ff20b3f0b935859d3c3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/spxmac028/.gradle/caches/transforms-3/c89b276466e3ff20b3f0b935859d3c3b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/36ad936a060cb4ea5604af2823bc275f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/36ad936a060cb4ea5604af2823bc275f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/24c10f90c28c8968424d03d88cac73b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/24c10f90c28c8968424d03d88cac73b6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/2c552be0d95a22dd369ed1ca18f7f706/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/spxmac028/.gradle/caches/transforms-3/2c552be0d95a22dd369ed1ca18f7f706/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/spxmac028/.gradle/caches/transforms-3/d08b6b92ef55a0b49c3d93b14754c6bf/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/spxmac028/.gradle/caches/transforms-3/d08b6b92ef55a0b49c3d93b14754c6bf/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-get-sms-android] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-get-sms-android/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-get-sms-android] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-get-sms-android/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/spxmac028/.gradle/caches/transforms-3/1de5f998d7e77273db2594e6de646c5a/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.5.1] /Users/spxmac028/.gradle/caches/transforms-3/1de5f998d7e77273db2594e6de646c5a/transformed/jetified-fbjni-0.5.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: com.reactnativevectoricons.material_design_icons has a targetSdkVersion < 4
+MERGED from [:react-native-fs] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] /Users/spxmac028/Desktop/SmartExpenseTracker/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/spxmac028/Desktop/SmartExpenseTracker/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: com.reactnativevectoricons.material_design_icons requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/spxmac028/.gradle/caches/transforms-3/eb8e48f6517a8791aa9f1f976f85ae87/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.3.0] /Users/spxmac028/.gradle/caches/transforms-3/99250c0aa4f60b9557ba7db0e1e1919f/transformed/jetified-play-services-auth-21.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/spxmac028/.gradle/caches/transforms-3/b805eb5011162943f737f92811598c6e/transformed/jetified-play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/spxmac028/.gradle/caches/transforms-3/3497bc7f2af26cefd3918b8183ffd09a/transformed/jetified-play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/spxmac028/.gradle/caches/transforms-3/7a36c6b018b5debed8aea41fa20a358b/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/spxmac028/.gradle/caches/transforms-3/33fe5c26663c05a2903e53e81c6df019/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/spxmac028/.gradle/caches/transforms-3/19b4ebf4aeb0c48ada541312836faee7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.smartexpensetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.smartexpensetracker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/spxmac028/.gradle/caches/transforms-3/13db01405979fe514c177df7642aea18/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/spxmac028/.gradle/caches/transforms-3/9ece649f13d1ee200f99abdeb371e341/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57

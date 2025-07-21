@@ -1,0 +1,7 @@
+#Mon Jul 21 14:01:31 IST 2025
+base.1=/Users/spxmac028/Desktop/SmartExpenseTracker/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/spxmac028/Desktop/SmartExpenseTracker/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

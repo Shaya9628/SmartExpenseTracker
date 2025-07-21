@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/raw_node_modules_reactnativevectoricons_materialdesignicons_fonts_materialdesignicons.ttf.flat",
+        "source": "com.smartexpensetracker.app-res-34:/raw/node_modules_reactnativevectoricons_materialdesignicons_fonts_materialdesignicons.ttf"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.smartexpensetracker.app-main-40:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.smartexpensetracker.app-res-34:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.smartexpensetracker.app-merged_res-39:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.smartexpensetracker.app-main-40:/drawable/rn_edit_text_material.xml"
+    }
+]
